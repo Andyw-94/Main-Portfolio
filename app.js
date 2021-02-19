@@ -22,4 +22,4 @@ menuItem.forEach((item) => {
     hamburger.classList.toggle('active');
     mobileMenu.classList.toggle('active');
   });
-});
+}); 
